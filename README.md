@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Sajid-Ali009
-- 👀 I’m interested in bussines and data analyst
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data-driven projects, especially in business analytics and product strategy
-- 📫 How to reach me linkedin.com/in/sajid-ali-3a93392bb email::balghari444@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love turning messy data into meaningful insights—and I can make a killer cup of chai while doing it!
+- 👋 Hi, I’m @Sajid-Ali009  
+- 👀 I’m passionate about **business, data analytics, and turning data into actionable insights**  
+- 🌱 I’m currently learning **Data Science** and exploring **AI & Deep Learning projects**  
+- 💞️ I’m looking to collaborate on **data-driven projects**, especially in **business analytics, product strategy, and AI solutions**  
+- 📫 How to reach me:  
+  - LinkedIn: [linkedin.com/in/sajid-ali-3a93392bb](https://www.linkedin.com/in/sajid-ali-3a93392bb)  
+  - Email: balghari444@gmail.com  
+  - Instagram: [@k2nectar](https://www.instagram.com/k2nectar)  
+  - Facebook Page: [K2 Nectar](https://www.facebook.com/k2nectar)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love **turning messy data into meaningful insights**—and I can make a **killer cup of chai** while doing it!  
+- 👑 CEO of **K2 Nectar** – innovating in **AI-driven customer engagement and smart solutions**
 
-<!---
-Sajid-Ali009/Sajid-Ali009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
